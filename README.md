@@ -46,11 +46,13 @@ I am currently looking for Co-op/Intern opportunities. Please reach out to me if
 
  ## Technical Skills:
 
--  ### **Programming/Frameworks:** SQL, Python (Numpy|Pandas|Matplotlib|Scikit-learn|Scipy|Seaborn), R
-- ### **Database/BI tools:** Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, Tableau, PowerBI, Excel 
-- ### **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS Lambda, AWS ECR, AWS EC2
-- ### **Datawarehouse/ETL:** Alteryx, Talend Studio, Google BigQuery, AWS Redshift, SSIS, Tableau Prep
-- ### **Other Tools:** Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
+*  ### **Programming/Frameworks:** SQL, Python (Numpy|Pandas|Matplotlib|Scikit-learn|Scipy|Seaborn), R
+* ### **Database/BI tools:** Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, Tableau, PowerBI, Excel 
+* ### **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS Lambda, AWS ECR, AWS EC2
+* ### **Datawarehouse/ETL:** Alteryx, Talend Studio, Google BigQuery, AWS Redshift, SSIS, Tableau Prep
+* ### **Other Tools:** Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
+
+#
 
 > **Visitors Count:**
 
