@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='150"'>
 
-Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
+&ensp; &ensp;  Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
 
 #
 
@@ -10,7 +10,7 @@ Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is pass
 
 I am currently looking for Co-op/Intern opportunities. Please reach out to me if you're hiring, have any questions 
  
- or  <img src="https://github.com/kpkaranpatil600/KaranPatil/blob/main/friends.png" width="70px">  just want to collaborate!
+ or  <img src="https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/friends.png" width="70px">  just want to collaborate!
 
 👯 I’m looking to collaborate on **Data Engineer**, **Business Intelligence**, **Data Analyst**, **Data Warehouse and Data Science.**
 
@@ -42,7 +42,7 @@ I am currently looking for Co-op/Intern opportunities. Please reach out to me if
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
 
-   
+  #
 
 
  ## Technical Skills:
