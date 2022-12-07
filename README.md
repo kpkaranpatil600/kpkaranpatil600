@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Karan Patil</h1>
 
 <img align='right' src='https://github.com/kpkaranpatil600/KaranPatil/blob/main/data.gif' width='150"'>
-Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time.
+Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
+
+#
 
 👨‍🎓 I'm doing Master's in Information Systems at Northeastern University
 
@@ -12,7 +14,7 @@ I am currently looking for Co-op/Intern opportunities. Please reach out to me if
 👯 I’m looking to collaborate on **Data Engineer**, **Business Intelligence**, **Data Analyst**, **Data Warehouse and Data Science.**
 
 
-## Find me around the web 🌎: 
+## Find me around the web 🌎
 - <a href="https://kpkaranpatil600.github.io/">Portfolio</a>‍ </h3>
 - Catching up on <a href="https://www.linkedin.com/in/kpkaranpatil600/">LinkedIn</a> </h3>
 - Reach me at <a href = "mailto: patil.kar@northeastern.edu">patil.kar@northeastern.edu</a>  </h3>
@@ -32,7 +34,7 @@ I am currently looking for Co-op/Intern opportunities. Please reach out to me if
 </a>
 
 ## 
-## 
+ 
 
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
@@ -44,12 +46,13 @@ I am currently looking for Co-op/Intern opportunities. Please reach out to me if
 
  ## Technical Skills:
 
-- Programming/Frameworks: SQL, Python (Numpy|Pandas|Matplotlib|Scikit-learn|Scipy|Seaborn), R
-- Database/BI tools: Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, Tableau, PowerBI, Excel 
-- Cloud Technologies: GCP Compute Engine, Azure, AWS S3, AWS Lambda, AWS ECR, AWS EC2
-- Datawarehouse/ETL: Alteryx, Talend Studio, Google BigQuery, AWS Redshift, SSIS, Tableau Prep
-- Other Tools: Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
+-  ### **Programming/Frameworks:** SQL, Python (Numpy|Pandas|Matplotlib|Scikit-learn|Scipy|Seaborn), R
+- ### **Database/BI tools:** Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, Tableau, PowerBI, Excel 
+- ### **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS Lambda, AWS ECR, AWS EC2
+- ### **Datawarehouse/ETL:** Alteryx, Talend Studio, Google BigQuery, AWS Redshift, SSIS, Tableau Prep
+- ### **Other Tools:** Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
 
-Visitors Count: 
+> **Visitors Count:**
 
-![VisitorCount](https://profile-counter.glitch.me/{kpkaranpatil600}/count.svg)
+
+ ![VisitorCount](https://profile-counter.glitch.me/{kpkaranpatil600}/count.svg) </h1>
