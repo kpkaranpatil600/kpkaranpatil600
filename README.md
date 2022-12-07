@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Karan Patil</h1>
 
-<img align='right' src='https://github.com/kpkaranpatil600/KaranPatil/blob/main/data.gif' width='150"'>
+<img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='150"'>
+
 Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
 
 #
