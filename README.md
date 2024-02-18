@@ -7,7 +7,7 @@
 
 &ensp; &ensp;  Welcome to my portfolio. I'm a Business Intelligence/Data Engineering enthusiast who is passionate about digging raw data and turning it into meaningful data. Always been intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
 #### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions. 
-####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse and Data Science. Some amazing Data/BI projects 🚀 coming soon
+####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse and Data Science. 
 #
 
 <img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif'  width='280'>
@@ -69,7 +69,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
   #
 ### 🧑‍💻 My Most recent projects:
-
+Some amazing Data/BI projects 🚀 coming soon
 |䷛| Repository| Description|
 |---|---|---|
 |1️|[Data Warehousing and Business_Intelligence for IMDB](https://github.com/kpkaranpatil600/IMDB_Database_Warehousing_and_Business_Intelligence/blob/main/README.md)| Designed Enterprise Data Warehouse on PostgreSQL by dimensional modeling to ingest 380 million records using Alteryx. <br/>  Leveraged data profiling and wrangling to resolve data quality issues, reduced anomalies by 30% and improved data integrity. <br/> Conducted Error handling, SCDs and Performance Tuning, reducing load time of transformed data from 6 Hours to 45 Minutes|
