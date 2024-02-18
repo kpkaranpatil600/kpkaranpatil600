@@ -6,18 +6,18 @@
 
 
 &ensp; &ensp;  Welcome to my portfolio. I'm a Business Intelligence/Data Engineering enthusiast who is passionate about digging raw data and turning it into meaningful data. Always been intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
-#### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions
-####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse, Business Analyst, Data Science
+#### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions. 
+####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse, Business Analyst and Data Science.
 #
 
 <img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='50"'>
 
 #### 🧑‍💻 Business Intelligence Analyst Intern @ Point32Health
 
-Point32Health - Harvard Pilgrim Health Care and Tufts Health Plan
+ [Point32Health - "Harvard Pilgrim Health Care and Tufts Health Plan"] 
 
-#### 👨‍🎓 Master's Degree @ Northeastern University
-Information Systems - Business Intelligence and Analytics
+#### 👨‍🎓 Master of Science "Information Systems" @ Northeastern University
+ [Specialization in Business Intelligence and Analytics]
 
 #### 👥 RSO Supervisor @ Northeastern University
 
@@ -72,10 +72,11 @@ Information Systems - Business Intelligence and Analytics
 
 |䷛| Repository| Description|
 |---|---|---|
-|1️⃣|[IMDB Database Warehousing_and Business_Intelligence](https://github.com/kpkaranpatil600/IMDB_Database_Warehousing_and_Business_Intelligence/blob/main/README.md)| Designed Multi Star Schema Dimensional Model with 10 Fact and 33 Dimension tables & developed Data Pipeline architecture by ETL to ingest all tables (380M+ rows) from multiple sources such as CSV, TSV, MySQL, MSSQL & PostgreSQL by using Talend. Implemented Data Profiling, Error Handling, Load Statistics, Cleansing and Performance Tuning to address data quality gaps & maintained referential integrity using Alteryx & Talend. Executed SQL scripts to processes batch data and created interactive visualizations dashboard on PowerBI & Tableau for analyzing the data to draw better insights on sales and customer segmentation and answer business questions |
-2️⃣ | [Strom Data Analysis and Nowcasting of Weather]()| Build an end-to-end application to forecast NOAA data from the SEVIR Big Data (960 GB HDF5 file) for Federal Aviation using Streamlit, FastAPI, and deploy it in GCP Compute Engine and developed action-driven dashboard in DataStudio. Designed automated ETL pipeline for productionization of ML model & implemented Apache Airflow to process batch requests. Implemented AWS lambda function using Docker and AWS ECR for performing Narrative Summarization and Sentimental analysis of storm data and deployed NER model from the huggingface library for predictive data analytics of weather|
-3️⃣|[New York Citi Bike Analysis]()| Created a data pipeline in Google BigQuery, Oracle ADW & MySQL for NYC Citi bikes data set of more than 120M+ data points and 2 million users. Performed analysis for bike trips, stations & system data to identify and interpret bike usage characteristics, patterns & trends. Produced BI dashboards to visualize in Google Data Studio to optimize bike usage by location, gender & age parameters |
- |4️⃣|[Boston Train Operations Management System]()| Constructed a normalized Database Schema using ER Studio and SQL Server for Train Management System for the city of Boston, which facilitates searching schedule, searching, and canceling tickets to improve the existing system. Designed Entity Relationship model & generated DDL script to design physical data model using ER Studio. Built 5+ SQL functions, stored procedures, and triggers to store, maintain data to track his ticket book history and can use it to examine the number of tickets booked and their status and build visualizations dashboards in Tableau.| 
+|1️|[Data Warehousing and Business_Intelligence for IMDB](https://github.com/kpkaranpatil600/IMDB_Database_Warehousing_and_Business_Intelligence/blob/main/README.md)| Designed Enterprise Data Warehouse on PostgreSQL by dimensional modeling to ingest 380 million records using Alteryx. <br/>  Leveraged data profiling and wrangling to resolve data quality issues, reduced anomalies by 30% and improved data integrity. <br/> Conducted Error handling, SCDs and Performance Tuning, reducing load time of transformed data from 6 Hours to 45 Minutes|
+2| [E-Commerce Data Architecture and Analysis]()| Built data pipeline in Python and Airflow DAG to load data from diverse sources into BigQuery, reduced manual work by 38% <br/>	Optimized overall query performance and response time for analytics workloads through incremental data pulls, change data capture <br/> Implemented forecasting and demand analysis to visualize e-commerce KPI (sales, inventory visibility, web traffic, conversion rates, user engagement) in Looker, 25% reduction in response time to market trends |
+3 | [Strom Data Analysis and Nowcasting of Weather]()| Structured an end-to-end application using Streamlit and FastAPI to forecast NOAA data from the SEVIR dataset for Federal Aviation; deployed on GCP Compute Engine, resulting in a 40% reduction in data processing time <br/> Integrated AWS Lambda, Docker and ECR to perform Sentimental analysis and Narrative Summarization of storm data using NER model from the Hugging Face library, achieved 20% decrease in overall processing costs|
+4|[New York Citi Bike Analysis]()| Developed ETL pipeline to loading 120M+ records from MySQL and public datasets into in BigQuery using Tableau prep <br/> Analyzed bike trip records and generated Power BI reports on bike usage trends by location, gender, age; identified opportunities for 20% increase in bike rentals within 6 months|
+5|[Boston Train Operations Management System]()| Constructed a normalized Database using SQL Server for Train Management System for searching scheduling and canceling tickets to improve the existing system <br/> Designed Entity Relationship model and physical data model using ER Studio <br/> Built 5+ SQL functions, stored procedures and triggers to store, maintain data to track ticket book history and their status| 
 
 
 
@@ -93,7 +94,3 @@ Information Systems - Business Intelligence and Analytics
 * **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS SageMaker 
 * **ETL:** Alteryx, SSRS, Talend Studio, Informatica PowerCenter, Apache Airflow, Tableau Prep
 * **Other Tools:** Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
-
-
-
-
