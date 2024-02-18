@@ -16,10 +16,10 @@
 
 #### 🧑‍💻 Business Intelligence Analyst Intern @ Point32Health
 
- [Point32Health - Harvard Pilgrim Health Care and Tufts Health Plan] 
+ Point32Health - Harvard Pilgrim Health Care and Tufts Health Plan
 
-#### 👨‍🎓 Master's degree @ Northeastern University
- [Information Systems: Business Intelligence and Analytics]
+#### 👨‍🎓 Master's degree in Information Systems  @ Northeastern University
+ Specialization in Business Intelligence and Analytics
 
 #### 👥 RSO Supervisor @ Northeastern University
 
