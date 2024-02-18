@@ -3,36 +3,71 @@
 > **Profile Views:**
 
  ![VisitorCount](https://profile-counter.glitch.me/{kpkaranpatil600}/count.svg) </h1>
-<img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='150"'>
 
-&ensp; &ensp;  Welcome to my portfolio. I'm a Data Engineering/Analytics enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
 
+&ensp; &ensp;  Welcome to my portfolio. I'm a Business Intelligence/Data Engineering enthusiast who is passionate about digging raw data and turning it into meaningful data. Always been intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
+#### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions. 
+####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse, Business Analyst and Data Science.
 #
 
-👨‍🎓 I'm doing Master's in Information Systems at Northeastern University
+<img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='50"'>
 
-I am currently looking for Co-op/Intern opportunities. Please reach out to me if you're hiring, have any questions 
- 
- or  <img src="https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/friends.png" width="70px">  just want to collaborate!
+#### 🧑‍💻 Business Intelligence Analyst Intern @ Point32Health
 
-👯 I’m looking to collaborate on **Data Engineer**, **Business Intelligence**, **Data Analyst**, **Data Warehouse and Data Science.**
+ [Point32Health - "Harvard Pilgrim Health Care and Tufts Health Plan"] 
+
+#### 👨‍🎓 Master of Science "Information Systems" @ Northeastern University
+ [Specialization in Business Intelligence and Analytics]
+
+#### 👥 RSO Supervisor @ Northeastern University
+
+#### 📊 Senior Analyst @ Aqua Sol Real Estate India
+
 
 #
 
 ### Find me around the web 🌎
-* <a href="https://kpkaranpatil600.github.io/">Portfolio</a>‍ </h3>
+📫 Reach me at <a href = "mailto: kpkaranpatil600@gmail.com">kpkaranpatil600@gmail.com</a>  </h3>
 
-* Reach me at <a href = "mailto: patil.kar@northeastern.edu">patil.kar@northeastern.edu</a>  </h3>
-
-
-<a href="https://www.linkedin.com/in/kpkaranpatil600/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Karan-Patil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kpkaranpatil600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
 <a href="https://instagram.com/kp_karanpatil600?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/kpkaranpatil600" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
-  <a href="https://leetcode.com/kpkaranpatil600/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/kpkaranpatil600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kpkaranpatil600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
 </p>
 
 #
+ ###  Languages and Tools:
+ 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+ <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+ <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+ <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
+ <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
+ <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
+![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  #
 ### 🧑‍💻 My Most recent projects:
 
 |䷛| Repository| Description|
@@ -44,35 +79,19 @@ I am currently looking for Co-op/Intern opportunities. Please reach out to me if
 
 
 
-
-### 🌱 My Contributions So Far!
-
- 
-<a href="https://github.com/kpkaranpatil600">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kpkaranpatil600&theme=buefy&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpkaranpatil600&theme=buefy&layout=compact" />
-</a>
-
 #
 
- ###  Languages and Tools:
-
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  #
+ 
 
 
  ### Technical Skills:
 
 * **Programming/Frameworks:** SQL, Python (Numpy|Pandas|Matplotlib|Scikit-learn|Scipy|Seaborn), R
-* **Database/BI tools:** Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, Tableau, PowerBI, Excel 
-* **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS Lambda, AWS ECR, AWS EC2
-* **Datawarehouse/ETL:** Alteryx, Talend Studio, Google BigQuery, AWS Redshift, SSIS, Tableau Prep
+* **Database/BI tools:** Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, 
+* **Business Intelligence:** Tableau, Power BI, MicroStrategy, Looker, Microsoft Excel
+* **Datawarehouse/ETL:**  Google BigQuery, AWS Redshift, Teradata, Snowflake, Salesforce, Cloudera, SSIS
+* **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS SageMaker 
+* **ETL:** Alteryx, SSRS, Talend Studio, Informatica PowerCenter, Apache Airflow, Tableau Prep
 * **Other Tools:** Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
 
 
