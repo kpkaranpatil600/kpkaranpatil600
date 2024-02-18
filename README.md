@@ -16,7 +16,7 @@
 
 Point32Health - Harvard Pilgrim Health Care and Tufts Health Plan
 
-#### 👨‍🎓 Master's Degree - Information Systems @ Northeastern University
+#### 👨‍🎓 Master's Degree Information Systems @ Northeastern University
 Specialization in Business Intelligence and Analytics
 
 #### 👥 RSO Supervisor @ Northeastern University
