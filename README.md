@@ -10,7 +10,7 @@
 ####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse and Data Science. Some amazing Data/BI projects 🚀 coming soon
 #
 
-<img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='50"'>
+<img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif'  width='280'>
 
 <h3> Find me around the web 🌎 </h3>
 
