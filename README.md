@@ -6,18 +6,18 @@
 
 
 &ensp; &ensp;  Welcome to my portfolio. I'm a Business Intelligence/Data Engineering enthusiast who is passionate about digging raw data and turning it into meaningful data. Always been intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. 
-#### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions. 
-####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse, Business Analyst and Data Science.
+#### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions
+####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse, Business Analyst, Data Science
 #
 
 <img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' width='50"'>
 
 #### 🧑‍💻 Business Intelligence Analyst Intern @ Point32Health
 
- [Point32Health - "Harvard Pilgrim Health Care and Tufts Health Plan"] 
+Point32Health - Harvard Pilgrim Health Care and Tufts Health Plan
 
 #### 👨‍🎓 Master of Science "Information Systems" @ Northeastern University
- [Specialization in Business Intelligence and Analytics]
+Specialization in Business Intelligence and Analytics
 
 #### 👥 RSO Supervisor @ Northeastern University
 
