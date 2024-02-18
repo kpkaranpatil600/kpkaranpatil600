@@ -52,7 +52,8 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -60,8 +61,9 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -80,17 +82,4 @@ Some amazing Data/BI projects 🚀 coming soon
 
 
 
-#
 
- 
-
-
- ### Technical Skills:
-
-* **Programming/Frameworks:** SQL, Python (Numpy|Pandas|Matplotlib|Scikit-learn|Scipy|Seaborn), R
-* **Database/BI tools:** Microsoft SQL Server, MySQL, Postgre SQL, DynamoDB, DBeaver, 
-* **Business Intelligence:** Tableau, Power BI, MicroStrategy, Looker, Microsoft Excel
-* **Datawarehouse/ETL:**  Google BigQuery, AWS Redshift, Teradata, Snowflake, Salesforce, Cloudera, SSIS
-* **Cloud Technologies:** GCP Compute Engine, Azure, AWS S3, AWS SageMaker 
-* **ETL:** Alteryx, SSRS, Talend Studio, Informatica PowerCenter, Apache Airflow, Tableau Prep
-* **Other Tools:** Jupyter Notebook, Airflow, Git/GitHub, Docker, SharePoint, SSRS, Jira, ER Studio
