@@ -23,17 +23,18 @@
 
 #### 👥 RSO Supervisor @ Northeastern University
 
-#### 📊 Senior Analyst @ Aqua Sol Real Estate India
+<!-- #### 📊 Senior Analyst @ Aqua Sol Real Estate India -->
 
 
-#### 📫 Reach me at <a href = "mailto: kpkaranpatil600@gmail.com">kpkaranpatil600@gmail.com</a>  </h3>
+<!-- #### 📫 Reach me at <a href = "mailto: kpkaranpatil600@gmail.com">kpkaranpatil600@gmail.com</a> 
+</h3>
 
 <a href="https://linkedin.com/in/kpkaranpatil600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
 <a href="https://www.instagram.com/karan.patil600/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/kpkaranpatil600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kpkaranpatil600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kpkaranpatil600" height="30" width="40" /></a>
 </p>
-
+-->
 #
 ###  Technical Skills:
  
