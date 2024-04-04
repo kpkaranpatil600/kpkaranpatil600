@@ -9,7 +9,7 @@
 #### 🔭 I’m currently looking for Full-time opportunities. Please reach out to me if you're hiring, have any questions. 
 ####  👯 I’m looking to collaborate on Business Intelligence, Data Analyst, Data Engineer, Data Warehouse and Data Science. 
 #
-
+<!--
 <img align='right' src='https://github.com/kpkaranpatil600/kpkaranpatil600/blob/main/data.gif' height='380' width='320'>
 
 <h3> Find me around the web 🌎 </h3>
@@ -21,7 +21,7 @@
 #### 👨‍🎓 Master's degree in Information Systems  @ Northeastern University
  Specialization in Business Intelligence and Analytics
 
-#### 👥 RSO Supervisor @ Northeastern University
+#### 👥 RSO Supervisor @ Northeastern University -->
 
 <!-- #### 📊 Senior Analyst @ Aqua Sol Real Estate India -->
 
